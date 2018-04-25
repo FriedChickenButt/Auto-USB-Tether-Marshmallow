@@ -1,0 +1,1 @@
+powershell -windowstyle hidden -file D:\Github\USB_Tether_Marshmallow\tether2.ps1
